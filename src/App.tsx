@@ -168,12 +168,12 @@ export default function App() {
           <div className="container">
             <h3 data-animate="fade-up">Experience</h3>
             <div className="card" data-animate="fade-up">
-              <h4>Student Research Assistant — Biomedical Lab</h4>
-              <p><em>Jan 2024 — Present</em></p>
+              <h4>EMG (Electromyography) Signal Analysis Project</h4>
+              <p><em>September 2025</em></p>
               <ul>
-                <li>Assist in building low-cost biosignal acquisition circuits and sensor prototypes.</li>
-                <li>Collect and preprocess physiological datasets for analysis.</li>
-                <li>Work with supervisors to prepare lab reports and poster presentations.</li>
+                <li>Developed and implemented EMG signal acquisition system using surface electrodes and Arduino-based amplification.</li>
+                <li>Processed raw EMG signals with digital filtering and feature extraction techniques.</li>
+                <li>Analyzed muscle activation patterns and created visualization dashboard for real-time signal monitoring.</li>
               </ul>
             </div>
 
@@ -234,8 +234,8 @@ export default function App() {
             <h3 data-animate="fade-up">Certifications & Awards</h3>
             <div className="info-grid">
               <div data-animate="fade-up">
-                <h4>Certificate in Biomedical Basics</h4>
-                <p>Institution / Online Course — 2023</p>
+                <h4>Medical Instrumentation Training Course</h4>
+                <p>Nawaloka Hospital, Sri Lanka — 2025</p>
               </div>
               <div data-animate="fade-up">
                 <h4>Programming for Data Science</h4>
